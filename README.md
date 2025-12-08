@@ -13,6 +13,7 @@
 
 ```bash
 python guess_number_game/guess_number_3.py
+```
 
 #### Возможности:
 
