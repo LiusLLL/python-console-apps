@@ -15,4 +15,5 @@
 ## Запуск
 ```bash
 python guess_number.py
+```
 
